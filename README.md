@@ -3,10 +3,10 @@
 Triple Three is a HTML game like TripleTown with 3D graphic.
 
 ## Screenshot
-![Screenshot](http://willicommer.de/triplethree/ScreenShot.png)
+![Screenshot](http://familiecommer.de/triplethree/ScreenShot.png)
 
 ## Demo
-[Play Triple Three online](http://willicommer.de/triplethree)
+[Play Triple Three online](http://familiecommer.de/triplethree)
 
 
 ## Files
